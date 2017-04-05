@@ -10,4 +10,4 @@ Bootstrap project with a hungarian short story.
 
 # The Site URL
 
-[https://tfeditm.github.io/colorclock/](https://tfeditm.github.io/het-krajcar/)
+[https://tfeditm.github.io/het-krajcar/](https://tfeditm.github.io/het-krajcar/)
